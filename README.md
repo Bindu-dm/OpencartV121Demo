@@ -1,12 +1,12 @@
-# 🛒 OpenCart Automation Framework
+#  OpenCart Automation Framework
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is an automation testing framework developed for the OpenCart e-commerce application. It is built using Selenium WebDriver with Java and follows a structured approach for maintainability and scalability.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 * Java
 * Selenium WebDriver
@@ -18,7 +18,7 @@ This project is an automation testing framework developed for the OpenCart e-com
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 OpencartV121
@@ -39,7 +39,7 @@ OpencartV121
 
 ---
 
-## ⚙️ Features
+##  Features
 
 * Page Object Model (POM) design pattern
 * Data-driven testing using Excel
@@ -50,9 +50,9 @@ OpencartV121
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 
-### 🔹 Using Eclipse
+###  Using Eclipse
 
 1. Import project as Maven project
 2. Right-click on `testng.xml`
@@ -60,7 +60,7 @@ OpencartV121
 
 ---
 
-### 🔹 Using Maven (Command Line)
+###  Using Maven (Command Line)
 
 ```
 mvn test
@@ -68,14 +68,14 @@ mvn test
 
 ---
 
-## 📊 Reports
+##  Reports
 
 * Test execution reports are generated using Extent Reports
 * Logs are captured using Log4j
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 * Selenium automation framework design
 * TestNG annotations and execution flow
@@ -85,13 +85,13 @@ mvn test
 
 ---
 
-## 🔗 GitHub Repository
+##  GitHub Repository
 
-👉 https://github.com/Bindu-dm/OpencartV121.git
+ https://github.com/Bindu-dm/OpencartV121.git
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Bindu DM**
 
