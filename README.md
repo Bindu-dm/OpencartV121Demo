@@ -71,7 +71,7 @@ mvn test
 ### Using run.bat executable file
 
       double click on run.bat file
-
+---
 ##  Reports
 
 * Test execution reports are generated using Extent Reports
