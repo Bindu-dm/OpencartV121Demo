@@ -68,7 +68,7 @@ mvn test
 
 ---
 
-**#### Using run.bat executable file**
+### Using run.bat executable file
 
       double click on run.bat file
 
