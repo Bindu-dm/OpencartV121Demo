@@ -87,7 +87,7 @@ mvn test
 
 ##  GitHub Repository
 
- https://github.com/Bindu-dm/OpencartV121.git
+ https://github.com/Bindu-dm/OpencartV121Demo.git
 
 ---
 
